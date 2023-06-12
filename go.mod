@@ -1,4 +1,4 @@
-module github.com/tjarratt/babbel
+module github.com/tjarratt/babble
 
 go 1.19
 
